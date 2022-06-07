@@ -4,7 +4,7 @@
 - Max 600 iteracji
 - 2 wykresy(big, small case): y = dtv od prawdziwych tet, x = stop_con
 - wyznaczyc argmin_epsilon(dtv)
-
+- DONE
 
 
 
